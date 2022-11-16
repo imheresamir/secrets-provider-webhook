@@ -1,0 +1,6 @@
+domain: conjur.org
+layout:
+- go.kubebuilder.io/v3
+projectName: secrets-provider-webhook
+repo: conjur.org/secrets-provider-webhook
+version: "3"
